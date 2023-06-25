@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Front Beginers</h1>
+      <h1>Front </h1>
     </div>
   )
 }
